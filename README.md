@@ -6,6 +6,8 @@ Plug the board into a PC, connect any I²C chip, and I2C Poke scans the bus, wor
 
 ![Scan tab](docs/screenshot-scan.png)
 
+<img src="docs/displays.jpg" alt="SSD1306 OLED driven by I2C Poke, next to a 16x2 LCD" width="320">
+
 ## Features
 
 | Tab | What it does |
